@@ -1,0 +1,19 @@
+body{
+    font-style: italic;
+    text-align: center;
+    background: linear-gradient(270deg, #bf97ce, #9997ce);
+   
+
+    h1{
+        margin: top;
+        color: rgb(87, 0, 35);
+        font-size: 2.5em;
+        margin-top: 20px;
+    }
+    h3{
+        font-size: 1.5em;
+        color:rgb(28, 0, 11)
+    }
+    
+}
+
